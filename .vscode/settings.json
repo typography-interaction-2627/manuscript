@@ -1,6 +1,7 @@
 {
 	"chat.agent.enabled": false,
 	"chat.mcp.access":"none",
+	"chat.sessionSync.enabled": true,
 	"chat.tools.urls.autoApprove": {
 		"https://developer.mozilla.org": true,
 		"https://typography-interaction-2627.github.io/": true
