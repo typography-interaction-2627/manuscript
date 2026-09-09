@@ -1,6 +1,7 @@
-<!-- This file provides context/instruction for your repository! -->
-<!-- They are written in Markdown (.md), for simple formatting: -->
-<!-- https://www.markdownguide.org/cheat-sheet/ -->
+<!--
+This file provides context/instruction for your repository! They are written in Markdown (.md), for simple formatting:
+https://www.markdownguide.org/cheat-sheet/
+-->
 
 # Project 1: *Manuscript*
 
