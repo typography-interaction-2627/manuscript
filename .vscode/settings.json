@@ -8,6 +8,7 @@
 	},
 	"editor.detectIndentation": false,
 	"editor.guides.bracketPairs": true,
+	"editor.inlineSuggest.enabled": false,
 	"editor.insertSpaces": false,
 	"editor.linkedEditing": true,
 	"editor.renderWhitespace": "all",
@@ -21,5 +22,6 @@
 	"files.eol": "\n",
 	"files.insertFinalNewline": true,
 	"files.trimTrailingWhitespace": true,
+	"github.copilot.nextEditSuggestions.enabled": false,
 	"workbench.colorTheme": "GitHub Dark Default",
 }
