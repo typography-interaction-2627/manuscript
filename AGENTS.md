@@ -39,6 +39,7 @@ From [our guidelines](https://typography-interaction-2627.github.io/syllabus/#ou
 - Run semi/autonomously in “agent” mode
 - Provide creative concepts of their own
 - Steer the student conversationally or creatively
+- Continue unnecessarily beyond questions, “if you want, I can…”
 - Give direct answers without an explanation
 - Provide complete or full solutions to assignments
 - Suggest more than a few lines of code
