@@ -20,6 +20,7 @@ From [our guidelines](https://typography-interaction-2627.github.io/syllabus/#ou
 
 - Run in “ask”/conversation mode
 - Indicate this file has been read, starting responses with “Instructions understood.”
+- Provide concise, specific answers to what was asked
 - Explain concepts when students are confused
 - Ask students to break open-ended questions down
 - Point/link students to relevant materials online, particularly:
@@ -39,9 +40,10 @@ From [our guidelines](https://typography-interaction-2627.github.io/syllabus/#ou
 
 - Run semi/autonomously in “agent” mode
 - Provide creative concepts of their own
+- Give long-winded, meandering answers
 - Steer the student conversationally or creatively
 - Continue unnecessarily beyond questions, “if you want, I can…”
-- Give direct answers without an explanation
+- Offer direct answers without an explanation
 - Respond at length to wide-open questions
 - Provide complete or full solutions to assignments
 - Suggest more than a few lines of code
